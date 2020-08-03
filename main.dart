@@ -1,5 +1,3 @@
-# chatbot
-#dev-a-thon
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
